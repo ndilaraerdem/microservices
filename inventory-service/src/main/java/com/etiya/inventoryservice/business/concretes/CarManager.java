@@ -1,6 +1,6 @@
 package com.etiya.inventoryservice.business.concretes;
-
 import com.etiya.common.events.inventories.InventoryCreatedEvent;
+
 import com.etiya.inventoryservice.abstracts.CarRepository;
 import com.etiya.inventoryservice.business.abstracts.CarService;
 import com.etiya.inventoryservice.business.dtos.requests.cars.CreateCarRequest;
