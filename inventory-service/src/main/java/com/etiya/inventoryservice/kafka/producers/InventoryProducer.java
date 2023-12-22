@@ -16,3 +16,9 @@ public class InventoryProducer {
 
     }
 }
+//docker
+//kafka
+// kafka stack oluşturan bir docker compose oluştur.
+//kafka stack oluşturan bir docker compose oluşturur musun
+//buna kafka-ui da dahil eder misin
+//copilot

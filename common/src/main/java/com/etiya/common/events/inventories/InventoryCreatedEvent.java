@@ -11,7 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class InventoryCreatedEvent {
     private int carId;
-    private String brandId;
+    private int brandId;
     private String brandName;
     private double dailyPrice;
     private int modelYear;
